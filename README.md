@@ -24,3 +24,7 @@ API key stored in apikey.json held in same directory as the notebook
 	"apikey":"api key goes here"
 }
 ```
+
+## Example Image
+
+![Example](https://i.imgur.com/J0ufuYa.png)
